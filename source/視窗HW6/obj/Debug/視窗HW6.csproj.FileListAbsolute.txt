@@ -1,0 +1,18 @@
+c:\users\user\documents\visual studio 2012\Projects\視窗HW6\視窗HW6\bin\Debug\視窗HW6.exe.config
+c:\users\user\documents\visual studio 2012\Projects\視窗HW6\視窗HW6\bin\Debug\視窗HW6.exe
+c:\users\user\documents\visual studio 2012\Projects\視窗HW6\視窗HW6\bin\Debug\視窗HW6.pdb
+c:\users\user\documents\visual studio 2012\Projects\視窗HW6\視窗HW6\obj\Debug\視窗HW6.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\視窗HW6\視窗HW6\obj\Debug\視窗HW6.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\視窗HW6\視窗HW6\obj\Debug\視窗HW6.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\視窗HW6\視窗HW6\obj\Debug\視窗HW6.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\視窗HW6\視窗HW6\obj\Debug\視窗HW6.exe
+c:\users\user\documents\visual studio 2012\Projects\視窗HW6\視窗HW6\obj\Debug\視窗HW6.pdb
+C:\Users\Liu\Downloads\備審資料\劉兆鵬備審資料\劉兆鵬備審資料\作品集\視窗HW6\視窗HW6\視窗HW6\bin\Debug\視窗HW6.exe.config
+C:\Users\Liu\Downloads\備審資料\劉兆鵬備審資料\劉兆鵬備審資料\作品集\視窗HW6\視窗HW6\視窗HW6\obj\Debug\視窗HW6.exe
+C:\Users\Liu\Downloads\備審資料\劉兆鵬備審資料\劉兆鵬備審資料\作品集\視窗HW6\視窗HW6\視窗HW6\obj\Debug\視窗HW6.pdb
+C:\Users\Liu\Downloads\備審資料\劉兆鵬備審資料\劉兆鵬備審資料\作品集\視窗HW6\視窗HW6\視窗HW6\bin\Debug\視窗HW6.exe
+C:\Users\Liu\Downloads\備審資料\劉兆鵬備審資料\劉兆鵬備審資料\作品集\視窗HW6\視窗HW6\視窗HW6\bin\Debug\視窗HW6.pdb
+C:\Users\Liu\Downloads\備審資料\劉兆鵬備審資料\劉兆鵬備審資料\作品集\視窗HW6\視窗HW6\視窗HW6\obj\Debug\視窗HW6.csprojResolveAssemblyReference.cache
+C:\Users\Liu\Downloads\備審資料\劉兆鵬備審資料\劉兆鵬備審資料\作品集\視窗HW6\視窗HW6\視窗HW6\obj\Debug\視窗HW6.Form1.resources
+C:\Users\Liu\Downloads\備審資料\劉兆鵬備審資料\劉兆鵬備審資料\作品集\視窗HW6\視窗HW6\視窗HW6\obj\Debug\視窗HW6.Properties.Resources.resources
+C:\Users\Liu\Downloads\備審資料\劉兆鵬備審資料\劉兆鵬備審資料\作品集\視窗HW6\視窗HW6\視窗HW6\obj\Debug\視窗HW6.csproj.GenerateResource.Cache
